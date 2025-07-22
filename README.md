@@ -1,13 +1,5 @@
 # Gitclass1
 
-This is a simple Git practice repository.
+Welcome to my Git learning project repository!
 
-## 📌 What I've Learned
-- Git init, add, commit
-- Setting remote origin
-- Pushing to GitHub
-- Fixing common Git errors
-
-## 👩‍💻 Author
-Hilwana Akumalla – [GitHub Profile](https://github.com/Hilwana-97)
 
